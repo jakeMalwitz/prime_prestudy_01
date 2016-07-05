@@ -4,5 +4,9 @@
  * and open the template in the editor.
  */
 
+function myFunction() {
+var x = 'Hey this works!';
+return x;
+}
 
-console.log("Hey this works!");
+console.log(myFunction);
